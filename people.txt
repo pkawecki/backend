@@ -1,0 +1,58 @@
+{
+     "people": [
+          {
+               "firstName": "Franciszek",
+               "secondName": "Falkiewicz",
+               "sex": "m",
+               "age": 49
+          },
+          {
+               "firstName": "Gazda",
+               "secondName": "Entymowski",
+               "sex": "m",
+               "age": 25
+          },
+          {
+               "firstName": "Eugeniusz",
+               "secondName": "Adrianowicz",
+               "sex": "m",
+               "age": 65
+          },
+          {
+               "firstName": "Benita",
+               "secondName": "Adrianowicz",
+               "sex": "f",
+               "age": 48
+          },
+          {
+               "firstName": "Hubert",
+               "secondName": "Ciulinski",
+               "sex": "m",
+               "age": 62
+          },
+          {
+               "firstName": "Cyprian",
+               "secondName": "Hujowy",
+               "sex": "m",
+               "age": 28
+          },
+          {
+               "firstName": " Daria",
+               "secondName": "Hujowy",
+               "sex": "f",
+               "age": 66
+          },
+          {
+               "firstName": "Cecylia",
+               "secondName": "Ciulinski",
+               "sex": "f",
+               "age": 28
+          },
+          {
+               "firstName": " Florencja",
+               "secondName": "Debicki",
+               "sex": "f",
+               "age": 46
+          }
+     ]
+}
